@@ -1,2 +1,2 @@
 this project is for UI
-![Uploading image.png…]()
+![示例图片](图片1.gif)
